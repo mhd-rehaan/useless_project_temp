@@ -3,42 +3,32 @@
 
 
 # [Project Name] 🎯
-
+MOSQUITO
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: USELESS FELLOWS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Mohammed Rehaan KS - Aisat
+- Member 2: Agnel Antonio Paul - Aisat
 
 ### Project Description
-[2-3 lines about what your project does]
+Mosquito simulator
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Training Mosquitos
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Training and Killing
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+html
+javascript
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
 [commands]
 screenshots : https://drive.google.com/drive/folders/1qyY4pRLlxBzsLCmZM_1WFQhLWKeSc8qO?usp=sharing
 
